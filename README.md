@@ -75,7 +75,7 @@ The new end date is: 2025-08-14
 
 ---
 
-### Adding and Subtracting Time (`plus` and `minus`)
+### Exercise 5: Adding and Subtracting Time (`plus` and `minus`)
 
 **Prediction**  
 The output will show the base time as `2022-12-12 19:25`. The future time adds 3 years, 1 month, and 7 hours, resulting in `2026-01-13 02:25`. The pastime subtracts 2 weeks and 4 days, giving `2022-11-24 19:25`.
